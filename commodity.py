@@ -8,7 +8,7 @@ read from /write to a JSON file."""
 
 class Commodity:
   
-fileName= none   #file name that stores pricing data  
+  fileName= none   #file name that stores pricing data  
    
    def __init__(self):
       self._doesFileStorageExist(self)
